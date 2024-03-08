@@ -1,6 +1,12 @@
 h1{
     text-align: center;
     color: black;
-    background-color: darkolivegreen;
+    background-color: hsl(82, 39%, 30%, .6);
+}
+* {
+    background-color: rgb(210, 180, 140, .6);
 }
 
+p {
+background-color: rgb(85, 107, 47, .2);
+}
